@@ -1,0 +1,3 @@
+MCAL/TWI.o MCAL/TWI.o: ../MCAL/TWI.c ../MCAL/TWI.h
+
+../MCAL/TWI.h:
